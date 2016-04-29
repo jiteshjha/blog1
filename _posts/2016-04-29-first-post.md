@@ -3,8 +3,10 @@ layout: post
 title: My first post!
 ---
 
-[Jekyll](http://jekyllrb.com) is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From [the project's readme](https://github.com/jekyll/jekyll/blob/master/README.markdown):
+## First Post!
+This will be my first post here. I'll be mostly talking about my new takes on life, what I learned new, and also, my Google Summer of Code updates.
+I'll be working as a student developer for [Public Laboratory for Open Technology and Science](http://publiclab.org/) this summer.
 
-> Jekyll is a simple, blog aware, static site generator. It takes a template directory [...] and spits out a complete, static website suitable for serving with Apache or your favorite web server. This is also the engine behind GitHub Pages, which you can use to host your project’s page or blog right here from GitHub.
 
-It's an immensely useful tool. Find out more by [visiting the project on GitHub](https://github.com/jekyll/jekyll).
+##A little about me
+I'm a web developer originally from Mumbai, and I am an undergraduate 2nd year at Manipal Institute of Technology, Manipal. I love to explore new places and try local cuisine, and have frequented many such trips in Mumbai. I have a Jackson guitar and love to play AC/DC songs. The art of origami fascinates me. Someday, I would like to settle in Japan.  
