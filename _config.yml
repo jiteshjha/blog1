@@ -5,8 +5,8 @@ permalink:           pretty
 # relative_permalinks: true
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
+title:               Blog
+tagline:             Jitesh Kumar Jha
 url:                 http://jiteshjha.github.io/blog
 paginate:            1
 baseurl:             "http://jiteshjha.github.io/blog/"
@@ -20,9 +20,9 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Jitesh Kumar Jha
+  url:               https://twitter.com/jiteshjha96
+  email:             jiteshjha96@gmail.com
 
 # Custom vars
 version:             2.0.0
