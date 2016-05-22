@@ -8,7 +8,7 @@ permalink:           pretty
 title:               Blog
 tagline:             Jitesh Kumar Jha
 url:                 http://jiteshjha.github.io/blog
-paginate:            1
+paginate:            5
 baseurl:             "http://jiteshjha.github.io/blog/"
 
 # Assets
